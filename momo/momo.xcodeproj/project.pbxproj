@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
+		187035A11C93A23600F3648A /* KNPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 187035A01C93A23600F3648A /* KNPerson.m */; };
+		187035A51C93AB6500F3648A /* KNBaby.m in Sources */ = {isa = PBXBuildFile; fileRef = 187035A41C93AB6500F3648A /* KNBaby.m */; };
+=======
+		187035AB1C93B53700F3648A /* Line.m in Sources */ = {isa = PBXBuildFile; fileRef = 187035AA1C93B53700F3648A /* Line.m */; };
+>>>>>>> line
 		18CAC2621C930EFA00474D45 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CAC2611C930EFA00474D45 /* main.m */; };
 		18CAC2651C930EFA00474D45 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CAC2641C930EFA00474D45 /* AppDelegate.m */; };
 		18CAC2681C930EFA00474D45 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CAC2671C930EFA00474D45 /* ViewController.m */; };
@@ -16,6 +22,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
+		1870359F1C93A23600F3648A /* KNPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KNPerson.h; sourceTree = "<group>"; };
+		187035A01C93A23600F3648A /* KNPerson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KNPerson.m; sourceTree = "<group>"; };
+		187035A31C93AB6500F3648A /* KNBaby.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KNBaby.h; path = ../KNBaby.h; sourceTree = "<group>"; };
+		187035A41C93AB6500F3648A /* KNBaby.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KNBaby.m; path = ../KNBaby.m; sourceTree = "<group>"; };
+=======
+		187035A91C93B53700F3648A /* Line.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Line.h; sourceTree = "<group>"; };
+		187035AA1C93B53700F3648A /* Line.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Line.m; sourceTree = "<group>"; };
+>>>>>>> line
 		18CAC25D1C930EFA00474D45 /* momo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = momo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18CAC2611C930EFA00474D45 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		18CAC2631C930EFA00474D45 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -60,8 +75,14 @@
 			children = (
 				18CAC2631C930EFA00474D45 /* AppDelegate.h */,
 				18CAC2641C930EFA00474D45 /* AppDelegate.m */,
+				1870359F1C93A23600F3648A /* KNPerson.h */,
+				187035A01C93A23600F3648A /* KNPerson.m */,
+				187035A31C93AB6500F3648A /* KNBaby.h */,
+				187035A41C93AB6500F3648A /* KNBaby.m */,
 				18CAC2661C930EFA00474D45 /* ViewController.h */,
 				18CAC2671C930EFA00474D45 /* ViewController.m */,
+				187035A91C93B53700F3648A /* Line.h */,
+				187035AA1C93B53700F3648A /* Line.m */,
 				18CAC2691C930EFA00474D45 /* Main.storyboard */,
 				18CAC26C1C930EFA00474D45 /* Assets.xcassets */,
 				18CAC26E1C930EFA00474D45 /* LaunchScreen.storyboard */,
@@ -150,6 +171,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				18CAC2681C930EFA00474D45 /* ViewController.m in Sources */,
+<<<<<<< HEAD
+				187035A11C93A23600F3648A /* KNPerson.m in Sources */,
+				187035A51C93AB6500F3648A /* KNBaby.m in Sources */,
+=======
+				187035AB1C93B53700F3648A /* Line.m in Sources */,
+>>>>>>> line
 				18CAC2651C930EFA00474D45 /* AppDelegate.m in Sources */,
 				18CAC2621C930EFA00474D45 /* main.m in Sources */,
 			);
@@ -300,6 +327,7 @@
 				18CAC2761C930EFA00474D45 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
